@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "PruebaClienteAPI.Controllers.CarroController",
+    "Method": "guardarCarro",
+    "RelativePath": "Carro/guardarCarro",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "carro",
+        "Type": "PruebaClienteAPI.Modelo.Carro",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PruebaClienteAPI.Controllers.CarroController",
+    "Method": "ListarCarros",
+    "RelativePath": "Carro/listarCarros",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,32 @@
+C:\Users\josep\Documents\Visual Studio\PruebaClienteAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\josep\Documents\Visual Studio\PruebaClienteAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\josep\Documents\Visual Studio\PruebaClienteAPI\bin\Debug\net8.0\Laboratorio #3.exe
+C:\Users\josep\Documents\Visual Studio\PruebaClienteAPI\bin\Debug\net8.0\Laboratorio #3.deps.json
+C:\Users\josep\Documents\Visual Studio\PruebaClienteAPI\bin\Debug\net8.0\Laboratorio #3.runtimeconfig.json
+C:\Users\josep\Documents\Visual Studio\PruebaClienteAPI\bin\Debug\net8.0\Laboratorio #3.dll
+C:\Users\josep\Documents\Visual Studio\PruebaClienteAPI\bin\Debug\net8.0\Laboratorio #3.pdb
+C:\Users\josep\Documents\Visual Studio\PruebaClienteAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\josep\Documents\Visual Studio\PruebaClienteAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\josep\Documents\Visual Studio\PruebaClienteAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\josep\Documents\Visual Studio\PruebaClienteAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\josep\Documents\Visual Studio\PruebaClienteAPI\obj\Debug\net8.0\Laboratorio #3.csproj.AssemblyReference.cache
+C:\Users\josep\Documents\Visual Studio\PruebaClienteAPI\obj\Debug\net8.0\Laboratorio #3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josep\Documents\Visual Studio\PruebaClienteAPI\obj\Debug\net8.0\Laboratorio #3.AssemblyInfoInputs.cache
+C:\Users\josep\Documents\Visual Studio\PruebaClienteAPI\obj\Debug\net8.0\Laboratorio #3.AssemblyInfo.cs
+C:\Users\josep\Documents\Visual Studio\PruebaClienteAPI\obj\Debug\net8.0\Laboratorio #3.csproj.CoreCompileInputs.cache
+C:\Users\josep\Documents\Visual Studio\PruebaClienteAPI\obj\Debug\net8.0\Laboratorio #3.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\josep\Documents\Visual Studio\PruebaClienteAPI\obj\Debug\net8.0\Laboratorio #3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\josep\Documents\Visual Studio\PruebaClienteAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\josep\Documents\Visual Studio\PruebaClienteAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\josep\Documents\Visual Studio\PruebaClienteAPI\obj\Debug\net8.0\staticwebassets\msbuild.Laboratorio #3.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\josep\Documents\Visual Studio\PruebaClienteAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.Laboratorio #3.props
+C:\Users\josep\Documents\Visual Studio\PruebaClienteAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Laboratorio #3.props
+C:\Users\josep\Documents\Visual Studio\PruebaClienteAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Laboratorio #3.props
+C:\Users\josep\Documents\Visual Studio\PruebaClienteAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\josep\Documents\Visual Studio\PruebaClienteAPI\obj\Debug\net8.0\scopedcss\bundle\Laboratorio #3.styles.css
+C:\Users\josep\Documents\Visual Studio\PruebaClienteAPI\obj\Debug\net8.0\Laborato.8C601995.Up2Date
+C:\Users\josep\Documents\Visual Studio\PruebaClienteAPI\obj\Debug\net8.0\Laboratorio #3.dll
+C:\Users\josep\Documents\Visual Studio\PruebaClienteAPI\obj\Debug\net8.0\refint\Laboratorio #3.dll
+C:\Users\josep\Documents\Visual Studio\PruebaClienteAPI\obj\Debug\net8.0\Laboratorio #3.pdb
+C:\Users\josep\Documents\Visual Studio\PruebaClienteAPI\obj\Debug\net8.0\Laboratorio #3.genruntimeconfig.cache
+C:\Users\josep\Documents\Visual Studio\PruebaClienteAPI\obj\Debug\net8.0\ref\Laboratorio #3.dll
